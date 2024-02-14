@@ -1,0 +1,19 @@
+.tasbeh{
+    height: 500px;
+}
+.title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    width: 300px;
+    height: 100px;
+    border-radius: 100%;
+
+}
+.titlea{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
